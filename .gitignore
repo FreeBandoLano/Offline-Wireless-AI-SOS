@@ -1,0 +1,11 @@
+# Python
+__pycache__/
+*.py[cod]
+# PlatformIO / Arduino
+*.bin
+*.elf
+*.uf2
+# Data
+data/raw/
+# VS Code
+.vscode/
